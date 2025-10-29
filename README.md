@@ -41,17 +41,19 @@ I’m sharing my daily progress and insights on LinkedIn as well.
 
 ## 🏁 Day 1 Summary
 
-**Task:** Created a Linux user with a non-interactive shell  
+**Task:** Created a Linux user with a non-interactive shell
+
 **Key Takeaway:**  
 A non-interactive shell ensures a user can execute system-level tasks (like running automated jobs) without having login access — an essential step for security in DevOps pipelines.
 
 ## 🏁 Day 2 Summary
 
 **Task:** Created a temporary Linux user with an expiry date
+
 **Key Takeaway:**
 Setting an expiry date for user accounts ensures temporary or test users automatically get disabled after a defined period — reducing the risk of forgotten or stale accounts becoming potential security vulnerabilities in production environments.
 
 ---
 
-Stay tuned — 99 more days to go! 🔥  
+Stay tuned — 98 more days to go! 🔥  
 #100DaysOfDevOps #DevOps #Linux #Automation #LearningInPublic
