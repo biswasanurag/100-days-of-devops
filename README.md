@@ -13,22 +13,22 @@ To strengthen my practical DevOps skills by learning, building, and sharing some
 
 ## 📅 Daily Progress
 
-| Day | Topic / Task | Description | Link |
-|-----|---------------|-------------|------|
-| 1 | Linux User Setup | Created a Linux user with a non-interactive shell for restricted automation access | [Day 1 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-1/README.md) |
-| 2 | ... | ... | ... |
-| ... | ... | ... | ... |
+| Day | Topic / Task               | Description                                                                        | Link                                                                                        |
+| --- | -------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 1   | Linux User Setup           | Created a Linux user with a non-interactive shell for restricted automation access | [Day 1 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-1/README.md) |
+| 2   | Temporary Linux User Setup | Created a Linux user with a specific expiry date                                   | [Day 2 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-2/README.md) |
+| ... | ...                        | ...                                                                                | ...                                                                                         |
 
-*(I’ll keep updating this table as I move forward.)*
+_(I’ll keep updating this table as I move forward.)_
 
 ---
 
 ## 🧠 What You’ll Find Here
 
-- 📝 Daily notes and commands  
-- ⚙️ Scripts and configuration files  
-- 📘 Explanations and key learnings  
-- 🔗 References and related resources  
+- 📝 Daily notes and commands
+- ⚙️ Scripts and configuration files
+- 📘 Explanations and key learnings
+- 🔗 References and related resources
 
 ---
 
