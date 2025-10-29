@@ -6,7 +6,7 @@ Temporary User Setup with Expiry
 
 The need to create a user account with a specific expiry date is a core practice in IT Security and Access Management, especially for temporary roles.
 
-Here's a breakdown of why this is needed for the developer ravi on the Nautilus project:
+Here's a breakdown of why this is needed for the developer ravi on the project:
 
 ## 🔒 Security and Compliance
 
@@ -26,6 +26,6 @@ In many organizations, especially those in regulated industries, maintaining cle
 Instead of relying on an administrator to manually remember and disable the account on December 7th, the system handles the de-provisioning automatically. This saves administrative time and eliminates the risk of human error or oversight.
 
 **4. Project-Based Access**
-Since ravi is assigned specifically to the Nautilus project, the expiry date ties his system access directly to the project timeline. This is a best practice for managing contractors, consultants, or temporary staff access.
+Since ravi is assigned specifically to the project, the expiry date ties his system access directly to the project timeline. This is a best practice for managing contractors, consultants, or temporary staff access.
 
 In short, creating the account with an expiry date is a simple command that provides a strong, auditable, and automated layer of security and control over temporary system access.
