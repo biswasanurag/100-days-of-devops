@@ -17,6 +17,7 @@ To strengthen my practical DevOps skills by learning, building, and sharing some
 | --- | -------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | 1   | Linux User Setup           | Created a Linux user with a non-interactive shell for restricted automation access | [Day 1 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-1/README.md) |
 | 2   | Temporary Linux User Setup | Created a Linux user with a specific expiry date                                   | [Day 2 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-2/README.md) |
+| 3   | Secure Root SSH Access     | Secured root SSH access by disabling direct root login                             | [Day 3 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-3/README.md) |
 | ... | ...                        | ...                                                                                | ...                                                                                         |
 
 _(I’ll keep updating this table as I move forward.)_
@@ -53,7 +54,14 @@ A non-interactive shell ensures a user can execute system-level tasks (like runn
 **Key Takeaway:**
 Setting an expiry date for user accounts ensures temporary or test users automatically get disabled after a defined period — reducing the risk of forgotten or stale accounts becoming potential security vulnerabilities in production environments.
 
+## 🏁 Day 3 Summary
+
+**Task:** Secured root SSH access by disabling direct root login
+
+**Key Takeaway:**
+Disabling direct root SSH access enforces accountability and reduces security risks. By requiring users to log in with individual accounts and escalate privileges using sudo, systems gain better traceability and protection against unauthorized or accidental changes.
+
 ---
 
-Stay tuned — 98 more days to go! 🔥  
+Stay tuned — 97 more days to go! 🔥  
 #100DaysOfDevOps #DevOps #Linux #Automation #LearningInPublic
