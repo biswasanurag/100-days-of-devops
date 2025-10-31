@@ -13,12 +13,13 @@ To strengthen my practical DevOps skills by learning, building, and sharing some
 
 ## 📅 Daily Progress
 
-| Day | Topic / Task               | Description                                                                        | Link                                                                                        |
-| --- | -------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 1   | Linux User Setup           | Created a Linux user with a non-interactive shell for restricted automation access | [Day 1 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-1/README.md) |
-| 2   | Temporary Linux User Setup | Created a Linux user with a specific expiry date                                   | [Day 2 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-2/README.md) |
-| 3   | Secure Root SSH Access     | Secured root SSH access by disabling direct root login                             | [Day 3 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-3/README.md) |
-| ... | ...                        | ...                                                                                | ...                                                                                         |
+| Day | Topic / Task                 | Description                                                                        | Link                                                                                        |
+| --- | ---------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 1   | Linux User Setup             | Created a Linux user with a non-interactive shell for restricted automation access | [Day 1 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-1/README.md) |
+| 2   | Temporary Linux User Setup   | Created a Linux user with a specific expiry date                                   | [Day 2 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-2/README.md) |
+| 3   | Secure Root SSH Access       | Secured root SSH access by disabling direct root login                             | [Day 3 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-3/README.md) |
+| 4   | Script Execution Permissions | Managed script execution permissions using chmod                                   | [Day 4 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-4/README.md) |
+| ... | ...                          | ...                                                                                | ...                                                                                         |
 
 _(I’ll keep updating this table as I move forward.)_
 
@@ -61,7 +62,14 @@ Setting an expiry date for user accounts ensures temporary or test users automat
 **Key Takeaway:**
 Disabling direct root SSH access enforces accountability and reduces security risks. By requiring users to log in with individual accounts and escalate privileges using sudo, systems gain better traceability and protection against unauthorized or accidental changes.
 
+## 🏁 Day 4 Summary
+
+**Task:** Managed script execution permissions using chmod
+
+**Key Takeaway:**
+Controlling script execution with proper permissions ensures that only authorized users can run sensitive or automation-related scripts. This not only enhances security but also prevents accidental or unauthorized modifications in DevOps environments.
+
 ---
 
-Stay tuned — 97 more days to go! 🔥  
+Stay tuned — 96 more days to go! 🔥  
 #100DaysOfDevOps #DevOps #Linux #Automation #LearningInPublic
