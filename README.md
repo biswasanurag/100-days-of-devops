@@ -13,13 +13,14 @@ To strengthen my practical DevOps skills by learning, building, and sharing some
 
 ## 📅 Daily Progress
 
-| Day | Topic / Task                 | Description                                                                        | Link                                                                                        |
-| --- | ---------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 1   | Linux User Setup             | Created a Linux user with a non-interactive shell for restricted automation access | [Day 1 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-1/README.md) |
-| 2   | Temporary Linux User Setup   | Created a Linux user with a specific expiry date                                   | [Day 2 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-2/README.md) |
-| 3   | Secure Root SSH Access       | Secured root SSH access by disabling direct root login                             | [Day 3 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-3/README.md) |
-| 4   | Script Execution Permissions | Managed script execution permissions using chmod                                   | [Day 4 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-4/README.md) |
-| ... | ...                          | ...                                                                                | ...                                                                                         |
+| Day | Topic / Task                           | Description                                                                        | Link                                                                                        |
+| --- | -------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 1   | Linux User Setup                       | Created a Linux user with a non-interactive shell for restricted automation access | [Day 1 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-1/README.md) |
+| 2   | Temporary Linux User Setup             | Created a Linux user with a specific expiry date                                   | [Day 2 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-2/README.md) |
+| 3   | Secure Root SSH Access                 | Secured root SSH access by disabling direct root login                             | [Day 3 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-3/README.md) |
+| 4   | Script Execution Permissions           | Managed script execution permissions using chmod                                   | [Day 4 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-4/README.md) |
+| 5   | SElinux Installation and Configuration | Installed and configured SELinux for enhanced system security                      | [Day 5 Notes](https://github.com/biswasanurag/100-days-of-devops/blob/main/Day-5/README.md) |
+| ... | ...                                    | ...                                                                                | ...                                                                                         |
 
 _(I’ll keep updating this table as I move forward.)_
 
@@ -69,7 +70,14 @@ Disabling direct root SSH access enforces accountability and reduces security ri
 **Key Takeaway:**
 Controlling script execution with proper permissions ensures that only authorized users can run sensitive or automation-related scripts. This not only enhances security but also prevents accidental or unauthorized modifications in DevOps environments.
 
+## 🏁 Day 5 Summary
+
+**Task:** Installed and configured SELinux for enhanced system security
+
+**Key Takeaway:**
+SELinux enforces strict access controls that limit what users and processes can do, even with elevated privileges. Proper configuration strengthens system security, prevents unauthorized access, and provides an additional safeguard against potential exploits or misconfigurations.
+
 ---
 
-Stay tuned — 96 more days to go! 🔥  
+Stay tuned — 95 more days to go! 🔥  
 #100DaysOfDevOps #DevOps #Linux #Automation #LearningInPublic
